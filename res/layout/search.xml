@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="@color/white"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+   <LinearLayout android:layout_width="match_parent"
+                 android:orientation="horizontal"
+                 android:gravity="center"
+                 android:background="@drawable/top_background"
+                 android:layout_height="wrap_content">
+        <EditText android:layout_width="wrap_content"
+                  android:drawableLeft="@drawable/icon4"
+                  android:inputType="textEmailAddress"
+                  android:paddingLeft="65dip"
+                  android:textSize="16sp"
+                  android:hint="输入城市名或拼音"
+                  android:textColor="@color/item_abstract_normal"
+                  android:background="@drawable/searchbg_03"
+                  android:layout_height="wrap_content"/>
+   </LinearLayout>
+</LinearLayout>
+

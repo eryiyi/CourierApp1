@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/libs/android-support-v13.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/greendao-1.3.7.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/gson-2.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/httpclient-4.3.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/httpcore-4.3.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/httpmime-4.3.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/universal-image-loader-1.9.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/volley.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/button_bg_green_black.9.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/head.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/photo_failed.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/spinner2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/spinner_top.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable-hdpi/spinner_two.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/bg_spinner_shape.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/spinner1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/drawable/spinner_item_bg.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/spinner_bg.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/spinner_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/spinner_tv_bg.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/values/colors.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/adapter/ListviewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/dao/DaoMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/dao/DaoSession.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/dao/PersonDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/entity/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/upload/MultiPartRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/upload/MultiPartStack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/upload/MultiPartStringRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/widget/CustomerSpinner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/CourierApp/widget/Spinner_Dialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文档/getCompanyList.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文档/getUserId.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文档/saveEmsInfo.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/文档/说明.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

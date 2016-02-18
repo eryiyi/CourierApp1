@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="universal-image-loader-1.9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/universal-image-loader-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/volley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/volley.jar!/tests/src" />
+    </SOURCES>
+  </library>
+</component>

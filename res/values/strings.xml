@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小熊管家</string>
+
+    <string name="right_tag">RIGHT</string>
+    <string name="left_tag">LEFT</string>
+    <string name="quite">再按一次退出</string>
+
+    <string name="get_data_error">"获得数据失败，请稍后重试"</string>
+    <string name="validate_data_error">"我没听清楚哦，请重新说吧"</string>
+
+    <string name="login_error_one">"请输入用户名"</string>
+    <string name="login_error_two">"请输入密码"</string>
+    <string name="login_error_six">"登陆失败，请稍后重试"</string>
+
+    <!--添加收件-->
+    <string name="receiver_error_one">"请输入快递单号"</string>
+    <string name="receiver_error_onetwo">"单号最多20位"</string>
+    <string name="receiver_error_two">"请选择快递公司"</string>
+    <string name="receiver_error_three">"请输入手机号码"</string>
+    <string name="receiver_error_five">"请输入姓名"</string>
+    <string name="receiver_error_four">"手机号格式不正确"</string>
+
+
+    <string name="no_network">"当前网络连接不可用"</string>
+
+    <string name="scan_text"></string>
+    <string name="check_new_version">检查中...</string>
+</resources>

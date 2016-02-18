@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/white_bg">
+    <View android:layout_width="wrap_content"
+          android:layout_height="1.0dp"
+          android:layout_marginLeft="20dp"
+          android:layout_marginRight="20dp"
+          android:background="#e9e9e9"/>
+    <RelativeLayout android:layout_width="match_parent"
+                    android:padding="10dp"
+                    android:layout_height="wrap_content">
+        <LinearLayout android:layout_width="wrap_content"
+                      android:orientation="horizontal"
+                      android:layout_marginLeft="5dp"
+                      android:padding="5dp"
+                      android:layout_alignParentLeft="true"
+                      android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                      android:text="日期："
+                      android:textColor="@color/item_title_disabled"
+                      android:textSize="16sp"
+                      android:layout_height="wrap_content"/>
+            <TextView android:layout_width="wrap_content"
+                      android:text="20150102"
+                      android:textColor="@color/item_title_disabled"
+                      android:textSize="16sp"
+                      android:id="@+id/item_dateline"
+                      android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <!--<LinearLayout android:layout_width="wrap_content"-->
+                      <!--android:orientation="horizontal"-->
+                      <!--android:layout_marginRight="5dp"-->
+                      <!--android:padding="5dp"-->
+                      <!--android:layout_alignParentRight="true"-->
+                      <!--android:layout_height="wrap_content">-->
+            <!--<TextView android:layout_width="wrap_content"-->
+                      <!--android:text="目的地："-->
+                      <!--android:textColor="@color/item_title_disabled"-->
+                      <!--android:textSize="16sp"-->
+                      <!--android:layout_height="wrap_content"/>-->
+            <!--<TextView android:layout_width="wrap_content"-->
+                      <!--android:text="广东"-->
+                      <!--android:textColor="@color/btn_blue_normal"-->
+                      <!--android:textSize="16sp"-->
+                      <!--android:id="@+id/item_address"-->
+                      <!--android:layout_height="wrap_content"/>-->
+        <!--</LinearLayout>-->
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:orientation="horizontal"
+                  android:padding="5dp"
+                  android:layout_height="wrap_content">
+            <ImageView android:layout_width="100dp"
+                       android:id="@+id/item_cover"
+                       android:layout_height="match_parent"/>
+            <LinearLayout android:layout_width="wrap_content"
+                          android:orientation="vertical"
+                          android:layout_marginLeft="20dp"
+                          android:layout_height="wrap_content">
+                <TextView android:layout_width="wrap_content"
+                          android:textSize="18sp"
+                          android:layout_marginTop="5dp"
+                          android:text="15566514465"
+                          android:textStyle="bold"
+                          android:id="@+id/item_number"
+                          android:textColor="@color/right_font_color"
+                          android:layout_height="wrap_content"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_marginTop="5dp"
+                          android:text="姓名：张三"
+                          android:textSize="16sp"
+                          android:id="@+id/item_person"
+                          android:textColor="@color/item_title_disabled"
+                          android:layout_height="wrap_content"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_marginTop="5dp"
+                          android:text="货架号：1234567898"
+                          android:textSize="16sp"
+                          android:id="@+id/item_storeno"
+                          android:textColor="@color/item_title_disabled"
+                          android:layout_height="wrap_content"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_marginTop="5dp"
+                          android:text="联系电话：1895468888"
+                          android:textSize="16sp"
+                          android:id="@+id/item_tel"
+                          android:textColor="@color/item_title_disabled"
+                          android:layout_height="wrap_content"/>
+            </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
