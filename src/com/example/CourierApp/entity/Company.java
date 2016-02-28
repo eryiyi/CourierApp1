@@ -5,6 +5,7 @@ package com.example.CourierApp.entity;
  */
 public class Company {
     private String name;
+
     private String logo;
 
     public String getName() {
